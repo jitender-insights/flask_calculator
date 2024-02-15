@@ -7,8 +7,8 @@
 ### -  Subtraction
 ### -  Multiplication
 ### -  Division
-### -  Prerequisites
-### -  Make sure you have the following installed on your machine:
+##  Prerequisites
+##  Make sure you have the following installed on your machine:
 
 ## Python (3.6 and above)
 ## Flask (pip install flask)
